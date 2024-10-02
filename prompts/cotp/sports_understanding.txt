@@ -1,0 +1,23 @@
+Determine whether an artificially constructed sentence relating to sports is plausible or not. The answer is ended with "So the answer is [yes/no]."
+Q: Is the following sentence plausible? "Bam Adebayo scored a reverse layup in the Western Conference Finals."
+A: Let's think step by step.
+Bam Adebayo: an American basketball player.
+Scored a reverse layup in the Western Conference Finals: part of the NBA Finals.
+Because both are related to basketball, it is consistent.
+So the answer is yes.
+
+Q: Is the following sentence plausible? "Santi Cazorla scored a touchdown."
+A: Let's think step by step.
+Santi Cazorla: a soccer player.
+Touchdown: part of American football and rugby.
+Because both are related to different sports, it is inconsistent.
+So the answer is no.
+
+Q: Is the following sentence plausible? "DeMar DeRozan was called for the goal tend."
+A: Let's think step by step.
+DeMar DeRozan: an American basketball player.
+Goal tend: part of basketball.
+Because both are related to basketball, it is consistent.
+So the answer is yes.
+
+When presented with a problem, recall relevant problems as examples. Afterward, proceed to solve the initial problem.

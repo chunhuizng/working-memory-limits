@@ -1,0 +1,47 @@
+Q: ((-2 - -7 - 5 * 2) + (-3 - 5 * 3 + -7)) =
+A: Let's think step by step.
+First, let's simplify the expression inside the parentheses on the left side:
+
+-2 - -7 - 5 * 2 = -2 + 7 - 10 = 5 - 10 = -5
+
+Next, let's simplify the expression inside the parentheses on the right side:
+
+-3 - 5 * 3 + -7 = -3 - 15 + -7 = -18 + -7 = -25
+
+Now, let's substitute the simplified expressions back into the original equation:
+
+((-5) + (-25)) = -5 - 25 = -30
+
+Therefore, ((-2 - -7 - 5 * 2) + (-3 - 5 * 3 + -7)) = -30.
+
+So the answer is -30.
+
+Q: ((5 * 7 * -4 + 7) * (-5 - -6 + -8 * -5)) =
+A: Let's think step by step.
+First, let's simplify the expression inside the inner parentheses:
+
+(-5 - -6 + -8 * -5) = (-5 + 6 + 40) = 41
+
+Now, let's substitute this value back into the original expression:
+
+((5 * 7 * -4 + 7) * 41) = ((-140 + 7) * 41) = (-133 * 41) = -5463
+
+So, ((5 * 7 * -4 + 7) * (-5 - -6 + -8 * -5)) = -5463.
+
+So the answer is -5463.
+
+Q: ((1 + 0 + 2 - 4) + (-9 + 6 * -5 + 8)) =
+A: Let's think step by step.
+First, let's simplify the expression inside the parentheses:
+
+(1 + 0 + 2 - 4) = -1
+
+Next, let's simplify the expression inside the second set of parentheses:
+
+(-9 + 6 * -5 + 8) = (-9 + (-30) + 8) = -31
+
+Now, let's substitute the simplified expressions back into the original expression:
+
+((-1) + (-31)) = -32
+
+So, ((1 + 0 + 2 - 4) + (-9 + 6 * -5 + 8)) = -32. So the answer is -32.

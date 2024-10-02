@@ -1,0 +1,32 @@
+Determine which of two sentences is sarcastic. The answer is ended with "So the answer is [Option]."
+
+According to Cambridge University Dictionary, sarcasm is "the use of remarks that clearly mean the opposite of what they say, made in order to hurt someone's feelings or to criticize something in a humorous way." Sarcastic sentences often contain satirical or ironic utterances, hyperboles, ambivalent or witty remarks.
+
+Q: Which statement is sarcastic?
+Options:
+(A) Yes, because having interests and actively researching them is a huge waste
+(B) Yes, because having interests and actively researching them is a huge deal
+A: Let's think step by step.
+If we look at (A), it says that having interests and actively researching them is a huge waste, implying that it is a useless effort. Then, we know that "having interests and actively researching them" is beneficial to the individual, so it is GOOD, actually. In (A), "is a huge waste" is NOT GOOD. Therefore, it is inconsistent. It suggests that it contains a taste of irony and sarcasm.
+If we look at (B), it says that having interests and actively researching them is a huge deal, implying that it is an important and consequential effort. Then, we know that "having interests and actively researching them" is GOOD. In (B), "is a huge deal" is GOOD. Therefore, it is consistent. This is arguably a neutral and correct statement.
+Above the above, the sarcastic option is (A). So the answer is (A).
+
+Q: Which statement is sarcastic?
+Options:
+(A) No one is going to disagree with you on this. Avoiding ad hominem attacks really help your case
+(B) No one is going to disagree with you on this. Ad hominem attacks really help your case
+A: Let's think step by step.
+If we look at (A), it says that avoiding ad hominem attacks really help your case, implying that ad hominem attacks are adverse and injurious. In (A), "Avoiding ad hominem attacks" is often useful and helpful, so it is GOOD. Then, "really help your case" is GOOD. Therefore, it is consistent. So, (A) is a neutral (valid and agreeable) statement.
+If we look at (B), it says that ad hominem attacks really help your case, implying that ad hominem attacks are a positive thing. In (B) "ad hominem attacks" are often not useful or constructive, so it is NOT GOOD. Then, "really help your case" is GOOD; Therefore, it is inconsistent. so, there appears to have a taste of irony and sarcasm in (B).
+Above the above, the sarcastic option is (B). So the answer is (B).
+
+Q: Which statement is sarcastic?
+Options:
+(A) Consistency in the league's punishments? What do you think this is supposed to be, politics?
+(B) Consistency in the league's punishments? What do you think this is supposed to be, moral?
+A: Let's think step by step.
+If we look at (A), it likens the consistency in the league's punishments with that in politics. In (A), "Consistency in the league's punishments" is GOOD thing. Then, "politics" is often not considered to be consistent or dependable, so it is NOT GOOD. Therefore, it is inconsistent. So, there appears to have a taste of irony and sarcasm in (A).
+If we look at (B), it likens the consistency in the league's punishments with that in morality. In (B), "Consistency in the league's punishments" is GOOD thing. Then, "moral" is often considered to be consistent or dependable, so it is GOOD. Therefore, it is consistent. So, (B) is a neutral (valid and agreeable) statement.
+Above the above, the sarcastic option is (A). So the answer is (A).
+
+When presented with a problem, recall relevant problems as examples. Afterward, proceed to solve the initial problem.

@@ -1,0 +1,62 @@
+Solve multi-step arithmetic problems. The answer is ended with "So the answer is [answer]."
+
+Q: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+A: Let's think step by step.
+Let’s recall that the order of operations in mathematics is as follows: (1) Parentheses, (2) exponents, (3) multiplication and division (from left to right), (4) addition and multiplication (from left to right). So, remember to always compute the expressions inside parentheses or brackets first.
+Then, let's follow the order of operations to evaluate the expression: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5))
+1. For the first set of parentheses, evaluate inside:
+ - Multiply `9 * -4` to get `-36`
+ - The rest of the numbers just follow since `-5 - 0` is `-5` and `-36 - 5` is `-41`
+So the first part simplifies to: `-41`
+2. For the second set of parentheses, evaluate inside:
+ - The sum `4 + -7` is `-3`
+ - The multiplication `0 * -5` is `0`, but it does not affect the sum since adding zero does not change the value
+So the second part simplifies to: `-3`
+3. For both parentheses, multiply the results:
+ - `-41 * -3` gives `123`
+Therefore, the final result of the expression `((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5))` is `123`.
+So the answer is 123.
+
+Q: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+A: Let's think step by step.
+Let’s recall that the order of operations in mathematics is as follows: (1) Parentheses, (2) exponents, (3) multiplication and division (from left to right), (4) addition and multiplication (from left to right). So, remember to always compute the expressions inside parentheses or brackets first.
+Then, let's follow the order of operations to evaluate the expression, which dictates that we perform multiplication before addition and subtraction: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4))
+1. For the first set of parentheses, evaluate inside:
+ - Multiply `-9 * 7` to get `-63`
+ - Then multiply `-63 * 7` to get `-441`
+ - Then multiply `-441 * -9` to get `3969`
+So the first part simplifies to: `3969`
+2. For the second set of parentheses, evaluate inside:
+ - Multiply `4 * -9` to get `-36`
+ - Then add `-36` to `-8` to get `-44`
+ - The subtraction of a negative number `- -4` is the same as an addition of `4`, so `-44 + 4` equals `-40`
+So the second part simplifies to: `-40`
+3. For both parentheses, add the results:
+ - `3969 + (-40)` which simplifies to `3969 - 40` equals `3929`
+Therefore, the final result of the expression `((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4))` is `3929`.
+So the answer is 3929.
+
+Q: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+A: Let's think step by step.
+Let’s recall that the order of operations in mathematics is as follows: (1) Parentheses, (2) exponents, (3) multiplication and division (from left to right), (4) addition and multiplication (from left to right). So, remember to always compute the expressions inside parentheses or brackets first.
+Then, let's follow the order of operations to evaluate the expression: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9))
+1. For the first set of parentheses, solve the multiplication inside:
+ - Multiply `5 * 8` to get `40`
+ - Then multiply `40 * -4` to get `-160`
+Now the expression inside the first set of parentheses is: `-3 + (-160)`, which simplifies to `-3 - 160`.
+2. For the first set of parentheses, solve the expression inside:
+ - `-3 - 160` equals `-163`
+So the first part simplifies to: `-163`
+3. For the second set of parentheses, solve the multiplication inside:
+ - Multiply `8 * -7` to get `-56`
+Now the expression inside the second set of parentheses is: `9 - (-56) + -9`, which simplifies to `9 + 56 - 9` since subtracting a negative is the same as adding a positive.
+4. For the second set of parentheses, solve the expression inside:
+ - `9 + 56` equals `65`
+ - `65 - 9` equals `56`
+So the second part simplifies to: `56`
+5. Subtract the result of the second part from the first part:
+ - `-163 - 56` equals `-219`
+Therefore, the final result of the expression `((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9))` is `-219`.
+So the answer is -219.
+
+When presented with a problem, recall relevant problems as examples. Afterward, proceed to solve the initial problem.

@@ -1,0 +1,23 @@
+Sort a list of words.
+
+Q: Sort the following words alphabetically: List: oven, costume, counterpart
+A: Let's break this down step by step.
+Step 1: The first letter: Compare the first letters of each word. "oven": "o" (15), "costume": "c" (3), "counterpart": "c" (3). Let's sort the letter's by serial number from smallest to largest. So we now have: (3) ["costume", "counterpart"] < (15) "oven", i.e., ["costume", "counterpart"] < "oven".
+Step 2: The second letter: Since "costume" and "counterpart" both start with "c", we need to look at their second letters. "costume": "o" (15), "counterpart": "o" (15). Let's sort the letter's by serial number from smallest to largest. We still have: (15) ["costume", "counterpart"], i.e., ["costume", "counterpart"].
+Step 3: The third letter: As the second letters are also the same, we move to the third letters. "costume": "s" (19), "counterpart": "u" (21). Let's sort the letter's by serial number from smallest to largest. Now we have: (19) "costume" < (21) "counterpart", i.e., ["costume" < "counterpart"].
+Step 4: Combining all the steps, we get ["costume" < "counterpart"] < "oven". So the answer is costume counterpart oven.
+
+Q: Sort the following words alphabetically: List: hypochlorite, ponderosa, phone, credulity
+A: Let's break this down step by step.
+Step 1: The first letter: Compare the first letters of each word. "hypochlorite": "h" (8), "ponderosa": "p" (16), "phone": "p" (16), "credulity": "c" (3). Let's sort the letter's by serial number from smallest to largest. We now have: (3) "credulity" < (8) "hypochlorite" < (16) ["ponderosa", "phone"], i.e., "credulity" < "hypochlorite" < (16) ["phone", "ponderosa"].
+Step 2: The second letter: Since "ponderosa" and "phone" both start with "p", we need to look at their second letters. "ponderosa": "o" (15), "phone": "h" (8). Let's sort the letter's by serial number from smallest to largest. Now we have: (8) "phone" < (15) "ponderosa", i.e., ["phone" < "ponderosa"].
+Step 3: The third letter: Combining all the steps, we get "credulity" < "hypochlorite" < ["phone" < "ponderosa"]. So the answer is credulity hypochlorite phone ponderosa.
+
+Q: Sort the following words alphabetically: List: newt, arson, parthia, seismography, mugho, aspect, census
+A: Let's break this down step by step.
+Step 1: The first letter: Compare the first letters of each word. "newt": "n" (14), "arson": "a" (1), "parthia": "p" (16), "seismography": "s" (19), "mugho": "m" (13), "aspect": "a" (1), "census": "c" (3). Let's sort the letter's by serial number from smallest to largest. We now have: (1) ["arson", "aspect"] < (3) "census" < (13) "mugho" < (14) "newt" < (16) "parthia" < (19) "seismography", i.e., ["arson", "aspect"] < "census" < "mugho" < "newt" < "parthia" < "seismography".
+Step 2: The second letter: Since "arson" and "aspect" both start with "a", we need to look at their second letters. "arson": "r" (18), "aspect": "s" (19). Let's sort the letter's by serial number from smallest to largest. Now we have: (18) "arson" < (19) "aspect", i.e., ["arson" < "aspect"].
+Step 3: The third letter: Combining all the steps, we get ["arson" < "aspect"] < "census" < "mugho" < "newt" < "parthia" < "seismography". So the answer is arson aspect census mugho newt parthia seismography.
+
+When presented with a problem, recall relevant problems as examples. Afterward, proceed to solve the initial problem.
+

@@ -1,0 +1,45 @@
+Select the most humorous edit one that 'ruins' the input movie or musical artist name. Let's inspire divergent thinking. The answer is ended with "So the answer is [choice]."
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'whitesnake'?
+Options:
+(A) whitesnape
+(B) whitesnapke
+(C) whitesnuake
+(D) mwhitesnake
+A: Let's think step by step.
+The original name is "whitesnake". This is the name of an old English hard rock band. It is a compound word, formed by the words "white" and "snake".
+(A) "whitesnape": It is formed by the combination of "white" and "snake"; therefore, "snake" has been changed to "snape". Then the word "Snape" means a reference to the fictional character Severus Snape in the Harry Potter series. The title's meaning is changed, so it is a pun. so (A) is indeed a meaningful and funny edit.
+(B) "whitesnapke": It is formed by the combination of "white" and "snapke", then the word "snapke" means not an actual word; The title's meaning is not changed. It is not a pun. Therefore, "whitesnapke" is not humorous.
+(C) "whitesnuake": It is formed by the combination of "white" and "snuake", then the word "snuake" means not an actual word; The title's meaning is not changed. It is not a pun. therefore, "whitesnuake" is not humorous.
+(D) "mwhitesnake": It is formed by the combination of "m", "white", and "snake", but the prefix "-m "seems arbitrary, then the word mwhitesnake" and means not an actual word; The title's meaning is not changed. It is not a pun. therefore, "mwhitesnake" is not meaningful or humorous.
+Above the above, the most humorous edit is (A). So the answer is (A).
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'one of our dinosaurs is missing'?
+Options:
+(A) ofne of our dinosaurs is missing
+(B) one af our dinosaurs is missing
+(C) one of our dinosaurs is pissing
+(D) one of our dinosaur is missing
+A: Let's think step by step.
+The original name is "one of our dinosaurs is missing". This is the name of an old British movie.
+(A) "ofne of our dinosaurs is missing": Here "one of" is changed to "ofne". Then comparing with original "one of", the word "ofne" means not an actual word. The title's meaning is not changed. So it is not a pun.
+(B) "one af our dinosaurs is missing": Here the word "of" is changed to "af". Then comparing with original "of", the word "af" means not an actual word. The title's meaning is not changed. So it is not a pun.
+(C) "one of our dinosaurs is pissing": Here the word "missing" is changed to "pissing". Then comparing with original "missing", the word "pissing" means indeed a very whimsical and mischievous edit. The title's meaning is changed. So it is a pun.
+(D) "one of our dinosaur is missing": Here the word "dinosaurs" is changed to "dinosaur". Then comparing with original "dinosaurs", the word "dinosaur" in the is singular but should be plural in the title; The title's meaning is changed pretty slightly. this change therefore is not a pun.
+Above the above, the most humorous edit is (C). So the answer is (C).
+
+Q: Which of the following is a humorous edit of this artist or movie name: 'counting crows'?
+Options:
+(A) countingy crows
+(B) counting cows
+(C) courting crows
+(D) coutnting crows
+A: Let's think step by step.
+The original name is "counting crows". This is the name of an American rock band. Historically, the band name comes from the British nursery rhyme "One for Sorrow", which is about counting of magpies.
+(A) "countingy crows": Here the word "counting" is changed to "countingy", then the word "countingy" means not an actual word. The title's meaning is not changed. It is not a pun.
+(B) "counting cows": Here the word "crows" is changed to "cows", then the word "counting cows" means indeed a playful and meaningful edit that ruins the original name of the band. The title's meaning is changed. It is a pun.
+(C) "courting crows": Here the word "counting" is changed to "courting", and "courting" is an actual word; then the word "courting crows" means not an actual word new, so it does not sound as humorous as "counting cows". The title's meaning is changed pretty slightly. It is not a pun.
+(D) "coutnting crows": Here the word "counting" is changed to "coutnting", then the word "coutnting" means not an actual word. The title's meaning is not changed. It is not a pun.
+Above the above, the most humorous edit is (B). So the answer is (B).
+
+When presented with a problem, recall relevant problems as examples. Afterward, proceed to solve the initial problem.

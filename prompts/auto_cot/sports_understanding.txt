@@ -1,0 +1,13 @@
+Q: Is the following sentence plausible? "Joao Moutinho was out at third."
+A: Let's think step by step.
+First, we need to determine who Joao Moutinho is. If Joao Moutinho is a baseball player, then it is plausible for him to be out at third base. However, if Joao Moutinho is not a baseball player or if the sentence is referring to a different sport or activity, then it would not be plausible.
+So the answer is no.
+
+Q: Is the following sentence plausible? "Tristan Jarry dunked the ball."
+A: Let's think step by step.
+First, let's consider the subject of the sentence, Tristan Jarry. Is he a basketball player? No, Tristan Jarry is actually a professional ice hockey goaltender for the Pittsburgh Penguins. So, it is not plausible for Tristan Jarry to dunk the ball in a basketball game.
+So the answer is no.
+
+Q: Is the following sentence plausible? "Sergio Busquets got on base."
+A: Let's think step by step. The sentence "Sergio Busquets got on base" is not plausible. This sentence seems to be referring to a baseball game, where "getting on base" means a player successfully reaching one of the bases. However, Sergio Busquets is a professional soccer player, not a baseball player. Therefore, it is not plausible for him to "get on base" in a baseball game.
+So the answer is no.

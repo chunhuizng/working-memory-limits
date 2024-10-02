@@ -1,0 +1,36 @@
+Q: Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 08/08/1925
+(B) 10/08/2019
+(C) 11/06/1924
+(D) 04/08/1925
+(E) 10/08/1924
+(F) 10/07/1924
+A: Let's think step by step.
+First, we need to determine today's date. The given date is 10/16/1924.
+
+Next, we need to find the date one week ago from today. To do this, we subtract 7 days from the given date.
+
+10/16/1924 - 7 days = 10/09/1924
+
+Therefore, the date one week ago from today is 10/09/1924.
+
+So the answer is (E).
+
+
+Q: Today is Sep 9, 1909. What is the date one week ago from today in MM/DD/YYYY?
+Options:
+(A) 09/02/1832
+(B) 05/02/1909
+(C) 09/02/1864
+(D) 09/02/1906
+(E) 09/02/1909
+(F) 08/19/1909
+A: Let's think step by step.
+Step 1: Subtract 7 days from the given date.
+Sep 9, 1909 - 7 days = Sep 2, 1909
+
+Step 2: Write the date in MM/DD/YYYY format.
+Sep 2, 1909 = 09/02/1909
+
+So the answer is (E).

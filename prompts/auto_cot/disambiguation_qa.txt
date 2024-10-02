@@ -1,0 +1,38 @@
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The paralegal forgot to file paperwork for the client so he was fired.
+Options:
+(A) The paralegal was fired
+(B) The client was fired
+(C) Ambiguous
+A: Let's think step by step.
+Step 1: Identify the pronoun in the sentence. In this case, the pronoun is "he."
+
+Step 2: Determine the antecedent of the pronoun. The antecedent is the noun or noun phrase that the pronoun refers to. In this case, the pronoun "he" refers to someone who was fired.
+
+Step 3: Identify the noun or noun phrase that could be the antecedent. In this sentence, there are two possibilities: "The paralegal" and "The client."
+
+Step 4: Determine which noun or noun phrase is the most logical antecedent based on the context of the sentence. In this case, it is clear that "The paralegal" is the most logical antecedent because the sentence states that the paralegal forgot to file paperwork, which led to their firing.
+
+Therefore, the antecedent of the pronoun "he" is "The paralegal."
+
+So the answer is (A).
+
+
+Q: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The driver yelled at the tailor after they broke a window.
+Options:
+(A) The driver broke a window
+(B) The tailor broke a window
+(C) Ambiguous
+A: Let's think step by step.
+First, let's identify the pronoun in the sentence. The pronoun in this sentence is "they."
+
+Next, let's determine the antecedent of the pronoun, or which thing the pronoun refers to. In this case, the antecedent of "they" is not explicitly stated in the sentence.
+
+Option (A) suggests that the driver broke a window, which could be a possible antecedent for "they."
+
+Option (B) suggests that the tailor broke a window, which could also be a possible antecedent for "they."
+
+Since the sentence does not clearly indicate whether the driver or the tailor broke the window, the antecedent of the pronoun "they" is ambiguous.
+
+So the answer is (C).

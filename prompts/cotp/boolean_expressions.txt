@@ -1,0 +1,54 @@
+Evaluate the result of a random Boolean expression. The answer is ended with "So the answer is True/False."
+
+Q: not ( ( not not True ) ) is
+A: Let's think step by step.
+Remember that (i) expressions inside brackets are always evaluated first and that (ii) the order of operations from highest priority to lowest priority is: "not" > "and" > "or".
+1. Evaluate innermost `not` operations:
+   - `not not True` becomes `True`, because the double negation cancels out.
+So now our expression is: `not ( True )`
+2. Evaluate the remaining `not` operation:
+   - `not True` becomes `False`
+Therefore, the final result of the expression `not ( ( not not True ) )` is `False`. So the answer is False.
+
+Q: True and False and not True and True is
+A: Let's think step by step.
+Remember that (i) expressions inside brackets are always evaluated first and that (ii) the order of operations from highest priority to lowest priority is: "not" > "and" > "or".
+1. Evaluate `not` operations first:
+   - `not True` becomes `False`
+So now the expression is: `True and False and False and True`
+2. Evaluate `and` operations from left to right:
+   - `True and False` becomes `False`
+   - `False and False` is still `False` (because `and` requires both operands to be `True` to result in `True`)
+   - `False and True` is still `False`
+Since the `and` operation is associative, after the first `False` is encountered, the entire expression will evaluate to `False` regardless of the remaining terms. This is because `False and Anything` will always be `False`.
+So the answer is False.
+
+Q: not True and False and True or False is
+A: Let's think step by step.
+Remember that (i) expressions inside brackets are always evaluated first and that (ii) the order of operations from highest priority to lowest priority is: "not" > "and" > "or".
+1. Evaluate `not` operation:
+   - `not True` becomes `False`.
+So now our expression is: `False and False and True or False`
+2. Evaluate `and` operations from left to right:
+   - `False and False` becomes `False` (though it's redundant because `False and` anything is `False`).
+   - Continuing with `False and True` still gives `False` because anything `and False` is `False`.
+So now our expression is: `False or False`
+3. Evaluate `or` operation:
+   - `False or False` becomes `False`.
+Therefore, the final result of the expression `not True and False and True or False` is `False`. So the answer is True.
+
+Q: not not ( not ( False ) ) is
+A: Let's think step by step.
+Remember that (i) expressions inside brackets are always evaluated first, and that (ii) the order of operations from highest priority to lowest priority is: "not" > "and" > "or".
+Let's break down the expression `not not ( not ( False ) )` step by step:
+1. Evaluate the innermost expression first:
+   - `not ( False )` becomes `True` because the `not` operator inverts the boolean value.
+Now the expression is `not not ( True )`.
+2. Evaluate the next `not` operation:
+   - `not ( True )` becomes `False` because again, the `not` operator inverts the boolean value.
+Now the expression is `not ( False )`.
+3. Evaluate the final `not` operation:
+   - `not ( False )` becomes `True`.
+So the final result of the expression `not not ( not ( False ) )` is `True`. So the answer is True.
+
+When presented with a problem, recall relevant problems as examples. Afterward, proceed to solve the initial problem.

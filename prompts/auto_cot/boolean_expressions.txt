@@ -1,0 +1,26 @@
+Q: not ( False or ( False ) ) is
+A: Let's think step by step.
+First, let's simplify the expression inside the parentheses: False or (False) is just False.
+
+Now, let's substitute this simplified expression back into the original expression: not (False) is True.
+
+So the answer is True.
+
+Q: ( not False ) or ( True ) is
+A: Let's think step by step.
+First, let's evaluate the expression inside the parentheses: (not False) is True.
+
+Now, let's evaluate the entire expression: True or True is True.
+
+So the answer is True.
+
+
+Q: ( not not True ) or not False is
+A: Let's think step by step.
+First, let's simplify the expression inside the parentheses: not True is False.
+
+Now, let's simplify the expression outside the parentheses: not False is True.
+
+Finally, let's evaluate the expression: False or True is True.
+
+So the answer is True.

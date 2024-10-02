@@ -1,0 +1,29 @@
+Q: How would a typical person answer each of the following questions about causation?
+Laurie likes GC brand coffee. GC is doing a new promotion for their new coffee flavor where customers can receive a free sample. Customers will receive a free sample if either they have previously purchased coffee beans from GC or they are subscribed to the GC email list. Laurie has previously purchased coffee beans from GC, and she is subscribed to the GC email list. When she hears about the promotion, Laurie checks to see if she is subscribed to the email list, and she sees that she is. So, she does not change her subscription status, and she remains subscribed to the email list. Because customers will receive a free sample if either they have previously purchased coffee beans from GC or they are subscribed to the GC email list, Laurie receives a free sample. Did Laurie receive a free sample because she did not change her subscription status?
+Options:
+- Yes
+- No
+A: Let's think step by step.
+First, Laurie receives a free sample because she has previously purchased coffee beans from GC. This is one of the conditions for receiving a free sample.
+So the answer is Yes.
+
+Q: How would a typical person answer each of the following questions about causation?
+Bill's wife, Sue, is out of town for the weekend. She leaves Bill a message that says, 'I just saw this marvelous bookend. It's called a Bartlett bookend. So pretty! I'm going to go back tomorrow and get one. It will be perfect for the left side of our bookshelf'. Bill goes and visits his friend. Bill and his friend talk for a while, and when Bill asks if his friend is willing to sell the bookend, his friend tells him it's a precious heirloom and he can't part with it. Bill waits until later when his friend is in the bathroom, and slips the bookend into his bag. Finally, Bill leaves his friend's house with the stolen right-side Bartlett bookend in his bag. Then the next day, Sue goes and buys the left-side Bartlett bookend. So, when Sue got home, they had the paired set of bookends. Did Bill cause them to possess the paired set of bookends?
+Options:
+- Yes
+- No
+A: Let's think step by step.
+First, Sue saw the Bartlett bookend and expressed her intention to buy one. Then, Bill stole the right-side Bartlett bookend from his friend. Finally, Sue bought the left-side Bartlett bookend.
+
+Based on this sequence of events, we can say that Bill's actions directly led to them possessing the paired set of bookends.
+
+So the answer is Yes.
+
+Q: How would a typical person answer each of the following questions about causation?
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells Suzy: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Then he tells Billy: "Be sure that you do not come in at all tomorrow morning. It is absolutely essential that you not appear at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+Options:
+- Yes
+- No
+A: Let's think step by step.
+First, the boss told Billy not to come in at all tomorrow morning. Billy followed this instruction and did not appear at 9 am. Therefore, Billy did not cause the motion detector to go off.
+So the answer is No.

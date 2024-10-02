@@ -1,0 +1,35 @@
+Q: On the table, you see several objects arranged in a row: a silver pencil, a brown bracelet, a green plate, and a blue pen. How many non-green objects do you see to the right of the pen?
+Options:
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: Let's think step by step.
+First, let's identify the position of the pen. The pen is the last object in the row, so there are no objects to the right of it.
+
+So the answer is (A).
+
+Q: On the desk, I see a green crayon, a burgundy notebook, and a brown dog leash. Is the notebook black?
+Options:
+(A) yes
+(B) no
+A: Let's think step by step.
+First, we need to identify the colors of the items on the desk. The green crayon is green, the burgundy notebook is burgundy, and the brown dog leash is brown.
+
+Now, we need to determine the color of the notebook. The given information does not mention the color of the notebook, so we cannot say for certain whether it is black or not.
+
+So the answer is (B).
+
+Q: On the floor, I see a magenta pen and a mauve teddy bear. Is the pen magenta?
+Options:
+(A) yes
+(B) no
+A: Let's think step by step.
+First, we need to identify the colors of the objects mentioned. The question states that there is a magenta pen and a mauve teddy bear on the floor.
+
+Now, let's focus on the pen. The question asks if the pen is magenta. Since the question states that there is a magenta pen on the floor, the answer is yes.
+
+So the answer is (A).

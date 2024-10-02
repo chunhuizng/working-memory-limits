@@ -1,0 +1,73 @@
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were five golfers: Amy, Mel, Rob, Joe, and Ada. Joe finished second. Joe finished below Amy. Mel finished second-to-last. Ada finished last.
+Options:
+(A) Amy finished second
+(B) Mel finished second
+(C) Rob finished second
+(D) Joe finished second
+(E) Ada finished second
+A: Let's think step by step.
+First, we know that Joe finished second. So, option (D) is correct.
+
+Next, we know that Joe finished below Amy. This means that Amy finished ahead of Joe. So, option (A) is incorrect.
+
+We also know that Mel finished second-to-last. This means that Mel finished ahead of Ada, but behind Joe. So, option (B) is incorrect.
+
+Finally, we know that Ada finished last. This means that Ada finished behind everyone else. So, option (E) is incorrect.
+
+So the answer is (D).
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells five fruits: oranges, apples, peaches, cantaloupes, and loquats. The loquats are less expensive than the cantaloupes. The cantaloupes are less expensive than the apples. The oranges are the most expensive. The apples are the third-most expensive.
+Options:
+(A) The oranges are the most expensive
+(B) The apples are the most expensive
+(C) The peaches are the most expensive
+(D) The cantaloupes are the most expensive
+(E) The loquats are the most expensive
+A: Let's think step by step.
+First, we know that the oranges are the most expensive. So, option (A) is correct.
+
+Next, we know that the cantaloupes are less expensive than the apples. This means that the apples are more expensive than the cantaloupes. So, option (B) is incorrect.
+
+We also know that the loquats are less expensive than the cantaloupes. This means that the cantaloupes are more expensive than the loquats. So, option (D) is incorrect.
+
+Finally, we know that the apples are the third-most expensive. This means that there are two fruits more expensive than the apples, which are the oranges and the cantaloupes. So, option (C) is incorrect.
+
+So the answer is (A).
+
+Q: The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: an owl, a cardinal, a robin, a hummingbird, and a crow. The hummingbird is to the left of the owl. The hummingbird is to the right of the cardinal. The crow is to the left of the robin. The owl is to the left of the crow.
+Options:
+(A) The owl is the second from the right
+(B) The cardinal is the second from the right
+(C) The robin is the second from the right
+(D) The hummingbird is the second from the right
+(E) The crow is the second from the right
+A: Let's think step by step.
+First, we know that the hummingbird is to the left of the owl. This means that the hummingbird cannot be the second from the right, so option (D) is incorrect.
+
+Next, we know that the hummingbird is to the right of the cardinal. This means that the cardinal cannot be the second from the right, so option (B) is incorrect.
+
+We also know that the crow is to the left of the robin. This means that the robin cannot be the second from the right, so option (C) is incorrect.
+
+Finally, we know that the owl is to the left of the crow. This means that the crow cannot be the second from the right, so option (E) is incorrect.
+
+So the answer is (A).
+
+Q: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were seven golfers: Joe, Eli, Ada, Mel, Eve, Rob, and Ana. Joe finished first. Mel finished second-to-last. Rob finished above Eve. Mel finished above Eli. Rob finished below Ada. Eve finished fourth.
+Options:
+(A) Joe finished second
+(B) Eli finished second
+(C) Ada finished second
+(D) Mel finished second
+(E) Eve finished second
+(F) Rob finished second
+(G) Ana finished second
+A: Let's think step by step.
+From the given information, we know that Joe finished first and Eve finished fourth. We also know that Mel finished second-to-last, which means Mel finished sixth.
+
+Now, let's look at the statement "Rob finished above Eve." Since Eve finished fourth, Rob must have finished above her. This means Rob finished third.
+
+Next, we know that Mel finished above Eli. Since Mel finished sixth, Eli must have finished seventh.
+
+We also know that Rob finished below Ada. Since Rob finished third, Ada must have finished second.
+
+So the answer is (C).

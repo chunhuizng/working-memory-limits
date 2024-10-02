@@ -1,0 +1,82 @@
+Order adjectives correctly in English sentences. The answer is ended with "So the answer is [Option]."
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) rubber terrible ship
+(B) terrible rubber ship
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion]<[2. size]<[3. age]<[4. shape]<[5. color]<[6. origin]<[7. material]<[8. purpose] noun".
+Option (A): "rubber terrible ship":
+(1) rubber -> material: [7. material]
+(2) terrible -> opinion: [1. opinion]
+(3) ship -> noun
+Based on (1) (2) (3) in Option (A), order: 7, 1, noun:
+7 < 1? False
+Therefore, because 7 < 1 is not correct, (A) does not have the correct ordering.
+Option (B): "terrible rubber ship":
+(1) terrible -> opinion: [1. opinion]
+(2) rubber -> material: [7. material]
+(3) ship -> noun
+Based on (1) (2) (3) in Option (B), order: 1, 7, noun:
+1 < 7? True
+Therefore, because 1 < 7 (True) is correct, (B) has the correct ordering.
+So the answer is (B).
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) repulsive small Brazilian exercise ship
+(B) Brazilian repulsive exercise small ship
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion]<[2. size]<[3. age]<[4. shape]<[5. color]<[6. origin]<[7. material]<[8. purpose] noun".
+Option (A): "repulsive small Brazilian exercise ship":
+(1) repulsive -> opinion: [1. opinion]
+(2) small -> size: [2. size]
+(3) Brazilian -> origin: [6. origin]
+(4) exercise -> purpose: [8. purpose]
+(5) ship -> noun
+Based on (1) (2) (3) (4) (5) in Option (A), order: 1, 2, 6, 8, noun:
+1 < 2? True
+2 < 6? True
+6 < 8? True
+Therefore, because 1 < 2 < 6 < 8 is correct, (A) has the correct ordering.
+Option (B): "Brazilian repulsive exercise small ship":
+(1) Brazilian -> origin: [6. origin]
+(2) repulsive -> opinion: [1. opinion]
+(3) exercise -> purpose: [8. purpose]
+(4) small -> size: [2. size]
+(5) ship -> noun
+Based on (1) (2) (3) (4) (5) in Option (B), order: 6, 1, 8, 2, noun:
+6 < 1? False
+Therefore, 6 < 1 < 8 < 2 is not correct, (B) does not have the correct ordering.
+So the answer is (A).
+
+Q: Which sentence has the correct adjective order:
+Options:
+(A) blue gold wonderful square shoe
+(B) wonderful square blue gold shoe
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion]<[2. size]<[3. age]<[4. shape]<[5. color]<[6. origin]<[7. material]<[8. purpose] noun".
+Option (A): "blue gold wonderful square shoe":
+(1) blue -> color: [5. color]
+(2) gold -> material: [7. material]
+(3) wonderful -> opinion: [1. opinion]
+(4) square -> shape: [4. shape]
+(5) shoe -> noun
+Based on (1) (2) (3) (4) (5) in Option (A), order: 5, 7, 1, 4, noun:
+5 < 7? True
+7 < 1? False
+Therefore, because 5 < 7 < 1 < 4 is not correct on "7 < 1", (A) does not have the correct ordering.
+Option (B): "wonderful square blue gold shoe":
+(1) wonderful -> opinion: [1. opinion]
+(2) square -> shape: [4. shape]
+(3) blue -> color: [5. color]
+(4) gold -> material: [7. material]
+(5) shoe -> noun
+Based on (1) (2) (3) (4) (5) in Option (B), order: 1, 4, 5, 7, noun:
+1 < 4? True
+4 < 5? True
+5 < 7? True
+Therefore, because 1 < 4 < 5 < 7 is correct, (B) has the correct ordering.
+So the answer is (B).
+
+When presented with a problem, recall relevant problems as examples. Afterward, proceed to solve the initial problem.

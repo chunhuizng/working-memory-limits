@@ -1,0 +1,144 @@
+Answer extremely simple questions about the colors of objects on a surface. The answer is ended with "So the answer is [choice]."
+
+Q: On the nightstand, there is a red pencil, a purple mug, a burgundy keychain, a fuchsia teddy bear, a black plate, a blue stress ball, and a green mug. If I remove all the red objects from the desk, what color is the stress ball?
+Options:
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) black
+(P) grey
+(Q) purple
+(R) pink
+A: Let's think step by step.
+Let's simplify the reasoning process in a structured and code-like manner,
+First, initialize a list = [
+    "pencil": "red", # Position 1
+    "mug": "purple", # Position 2
+    "keychain": "burgundy", # Position 3
+    "teddy bear": "fuchsia", # Position 4
+    "plate": "black", # Position 5
+    "stress ball": "blue" # Position 6
+    "mug": "green" # Position 7
+]
+if remove all the red objects, now list = [
+    "mug": "purple", # Position 1
+    "keychain": "burgundy", # Position 2
+    "teddy bear": "fuchsia", # Position 3
+    "plate": "black", # Position 4
+    "stress ball": "blue" # Position 5
+    "mug": "green" # Position 6
+]
+Second, retrieve the color of the stress ball from the list:
+stress_ball_color = list["stress ball"]
+Stress_ball_color will be "blue".
+Finally, we find that the color of the stress ball is blue (E).
+So the answer is (E).
+
+Q: On the table, you see a bunch of objects arranged in a row: a purple paperclip, a pink stress ball, a brown keychain, a green scrunchiephone charger, a mauve fidget spinner, and a burgundy pen. What is the color of the object directly to the right of the stress ball?
+Options (0-indexed choice_list):
+(A) red
+(B) orange
+(C) yellow
+(D) green
+(E) blue
+(F) brown
+(G) magenta
+(H) fuchsia
+(I) mauve
+(J) teal
+(K) turquoise
+(L) burgundy
+(M) silver
+(N) gold
+(O) black
+(P) grey
+(Q) purple
+(R) pink
+A: Let's think step by step.
+Let's simplify the reasoning process in a structured and code-like manner,
+First, initialize an item-color list = [
+    "paperclip": "purple", # Position 1
+    "stress ball": "pink", # Position 2
+    "keychain": "brown", # Position 3
+    "scrunchiephone charger": "green", # Position 4
+    "fidget spinner": "mauve", # Position 5
+    "pen": "burgundy" # Position 6
+]
+Second, the stress ball is at position 2, so we need to find the color of the object at position 3:
+color_to_the_right_of_stress_ball = list[2 + 1]
+Therefore, color_to_the_right_of_stress_ball will be "brown"
+We find that the color of the object directly to the right of the pink stress ball is brown (F).
+So the answer is (F).
+
+Q: On the nightstand, you see the following items arranged in a row: a teal plate, a burgundy keychain, a yellow scrunchiephone charger, an orange mug, a pink notebook, and a grey cup. How many non-orange items do you see to the left of the teal item?
+Options (0-indexed choice_list):
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: Let's think step by step.
+Let's simplify the reasoning process in a structured and code-like manner,
+First, initialize an item-color list = [
+    "plate": "teal", # Position 1
+    "keychain": "burgundy", # Position 2
+    "scrunchiephone charger": "yellow", # Position 3
+    "mug": "orange", # Position 4
+    "notebook": "pink", # Position 5
+    "cup": "grey" # Position 6
+]
+Second, find the position of the teal item in the list:
+# Find the position of the teal plate item
+teal_item_position = list["plate"][1]  # The position is 1
+Third, count the non-orange items to the left of the teal item (count = 0):
+the 1st item is the teal plate: (1) it is not orange; (2) it is not to the left of the teal item (so the next item is not needed to be checked). Therefore, count = count + 0 = 0.
+So, next item is not needed to be checked.
+Finally, we find that there are zero non-orange items to the left of the teal item since the teal item is the first in the row. So, the number of non-orange items to the left of the teal item is zero, in 0-indexed choice_list (A).
+So the answer is (A).
+
+Q: On the nightstand, you see the following items arranged in a row: a teal plate, a burgundy keychain, a yellow scrunchiephone charger, an orange mug, a pink notebook, and a grey cup. How many non-orange items do you see to the left of the mug item?
+Options (0-indexed choice_list):
+(A) zero
+(B) one
+(C) two
+(D) three
+(E) four
+(F) five
+(G) six
+A: Let's think step by step.
+Let's simplify the reasoning process in a structured and code-like manner,
+First, initialize an item-color list = [
+    "plate": "teal", # Position 1
+    "keychain": "burgundy", # Position 2
+    "scrunchiephone charger": "yellow", # Position 3
+    "mug": "orange", # Position 4
+    "notebook": "pink", # Position 5
+    "cup": "grey" # Position 6
+]
+Second, find the position of the mug item:
+# Find the position of the orange mug item
+mug_item_position = list["mug"][1]  # The position is 4
+Third, count the non-orange items to the left of the mug item (count = 0):
+# Start with a count of 0 for the non-orange items
+non_orange_count = 0
+the 1st item is the teal plate: (1) it is not orange; (2) it is to the left of the mug item. Therefore, count = count + 1 = 1.
+the 2nd item is the burgundy keychain: (1) it is not orange; (2) it is to the left of the mug item. Therefore, count = count + 1 = 2.
+the 3rd item is the yellow scrunchiephone charger: (1) it is not orange; (2) it is to the left of the mug item. Therefore, count = count + 1 = 3.
+the 4th item is the orange mug: (1) it is orange; (2) it is not to the left of the mug item (so the next item is not needed to be checked). Therefore, count = count + 0 = 3.
+Finally, we find that there are three non-orange items to the left of the mug item. So, the number of non-orange items to the left of the mug item is three, in a 0-indexed choice_list, (D).
+So the answer is (D).
+
+When presented with a problem, recall relevant problems as examples. Afterward, proceed to solve the initial problem.

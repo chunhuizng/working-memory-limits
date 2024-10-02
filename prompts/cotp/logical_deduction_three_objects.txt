@@ -1,0 +1,86 @@
+A logical deduction task which requires deducing the order of a sequence of objects. The answer is ended with "So the answer is [option]".
+
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were three golfers: Amy, Eli, and Eve. Eve finished above Amy. Eli finished below Amy.
+Options:
+(A) Amy finished last
+(B) Eli finished last
+(C) Eve finished last
+A: Let's think step by step.
+Let's simplify the reasoning process in a structured and code-like manner:
+We have three golfers: `["Amy", "Eli", "Eve"]`.
+The given conditions are:
+1. Eve finished above Amy: Eve (above) Amy
+2. Eli finished below Amy: Eli (below) Amy
+First, initialize a list with three slots representing the positions in the tournament, in the order of first to last:
+tournament_results = [None, None, None]
+Since according to given conditions, Eve is above Amy and Eli is below Amy: Eve (above) Amy (below) Eli
+Amy cannot be first or last: Amy (above) Eli
+Therefore, Amy must be in the middle:
+tournament_results[1] = "Amy"
+tournament_results = [None, "Amy", None]
+Since Eve is above Amy, she cannot be last or middle, so she must be first:
+tournament_results[0] = "Eve"
+tournament_results = ["Eve", "Amy", None]
+Since Eli is below Amy, and Amy is not last, Eli must be last
+tournament_results[2] = "Eli"
+tournament_results = ["Eve", "Amy", "Eli"]
+Is remaining 'None' in ["Eve", "Amy", "Eli"]? No, so the final results of the tournament will be:
+["Eve", "Amy", "Eli"]
+With the final `tournament_results` list being `["Eve", "Amy", "Eli"]`, we can now answer the question:
+The last is index 2 in 0-indexed list, which is Eli (B). So the answer is (B).
+So the answer is (B).
+
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are three books: a white book, a green book, and an orange book. The green book is to the right of the white book. The orange book is the rightmost.
+Options:
+(A) The white book is the leftmost
+(B) The green book is the leftmost
+(C) The orange book is the leftmost
+A: Let's think step by step.
+Let's simplify the reasoning process in a structured and code-like manner:
+We have three books: `["white", "green", "orange"]`.
+The given conditions are:
+1. The green book is to the right of the white book: green (right of) white
+2. The orange book is the rightmost: orange (rightmost)
+First, initialize a list with three slots representing the position on the shelf, in the order of left to right:
+shelf = [None, None, None]
+Second, the orange book is the rightmost (last), so it must be at the rightmost position (index 2 in 0-indexed list):
+shelf[2] = "orange"
+shelf = [None, None, "orange"]
+Then, the green book is to the right of the white book, and since the orange is already at the rightmost position, the only way for the green to be to the right of the white is for the white to be at the leftmost position, and green in the middle
+shelf[0] = "white"
+shelf[1] = "green"
+shelf = ["white", "green", "orange"]
+Is remaining 'None' in ["white", "green", "orange"]? No, so the final positions on the shelf will be:
+["white", "green", "orange"]
+With the final `shelf` list being `["white", "green", "orange"]`, we can now answer the question:
+The leftmost is index 0 in 0-indexed list, which is the white book (A). So the answer is (A).
+
+
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are three books: a red book, a gray book, and a white book. The white book is to the left of the gray book. The red book is the second from the left.
+Options:
+(A) The red book is the leftmost
+(B) The gray book is the leftmost
+(C) The white book is the leftmost
+A: Let's think step by step.
+Let's simplify the reasoning process in a structured and code-like manner:
+We have three books: `["red", "gray", "white"]`.
+The given conditions are:
+1. The white book is to the left of the gray book: white (left of) gray
+2. The red book is the second from the left: red (second from the left)
+First, initial positions are unknown, so we start with a list of None, in the order of left to right:
+positions = [None, None, None]
+Second, the second position (index 1 in 0-indexed list) is the red book:
+positions[1] = "red"
+positions = [None, "red", None]
+Now, the white book is to the left of the gray book: white (left of) gray
+Since red is in the middle, white must be first and gray last
+positions[0] = "white"
+positions[2] = "gray"
+positions = ["white", "red", "gray"]
+Is remaining 'None' in ["white", "red", "gray"]? No, so, final positions list will look like this:
+["white", "red", "gray"]
+With the final `positions` list being `["white", "red", "gray"]`, we can now answer the question:
+The leftmost is index 0 in 0-indexed list, which is the white book (C). So the answer is (C).
+
+When presented with a problem, recall relevant problems as examples. Afterward, proceed to solve the initial problem.
+

@@ -1,0 +1,76 @@
+Q: Today, William went to the soccer field. Between what times could they have gone?
+We know that:
+William woke up at 1pm.
+Sarah saw William working at the office from 1pm to 2pm.
+Mary saw William waiting at the train station from 2pm to 4pm.
+Susan saw William taking photos near the Eiffel Tower from 8pm to 10pm.
+The soccer field was closed after 10pm.
+Between what times could William have gone to the soccer field?
+Options:
+(A) 8pm to 10pm
+(B) 1pm to 2pm
+(C) 2pm to 4pm
+(D) 4pm to 8pm
+A: Let's think step by step.
+First, we know that William woke up at 1pm. So, he could have gone to the soccer field anytime after 1pm.
+
+Next, Sarah saw William working at the office from 1pm to 2pm. This means that William could not have gone to the soccer field during this time.
+
+Then, Mary saw William waiting at the train station from 2pm to 4pm. This means that William could not have gone to the soccer field during this time either.
+
+Finally, Susan saw William taking photos near the Eiffel Tower from 8pm to 10pm. This means that William could have gone to the soccer field anytime before 8pm.
+
+So the answer is (D).
+
+Q: Today, Jessica went to the restaurant. Between what times could they have gone?
+We know that:
+Jessica woke up at 9am.
+Nancy saw Jessica attending class at the school from 9am to 11am.
+John saw Jessica taking photos near the Leaning Tower of Pisa from 11am to 12pm.
+Mary saw Jessica taking photos near the Eiffel Tower from 12pm to 1pm.
+Anthony saw Jessica buying a phone at the electronics store from 1pm to 4pm.
+Kimberly saw Jessica buying cookies at a bakery from 4pm to 5pm.
+The restaurant was closed after 6pm.
+Between what times could Jessica have gone to the restaurant?
+Options:
+(A) 9am to 11am
+(B) 4pm to 5pm
+(C) 5pm to 6pm
+(D) 11am to 12pm
+A: Let's think step by step.
+First, we know that Jessica woke up at 9am. So, she could have gone to the restaurant anytime after that.
+
+Next, we know that Nancy saw Jessica attending class at the school from 9am to 11am. This means that Jessica could not have gone to the restaurant during this time.
+
+Then, John saw Jessica taking photos near the Leaning Tower of Pisa from 11am to 12pm. This means that Jessica could not have gone to the restaurant during this time either.
+
+After that, Mary saw Jessica taking photos near the Eiffel Tower from 12pm to 1pm. Again, Jessica could not have gone to the restaurant during this time.
+
+Next, Anthony saw Jessica buying a phone at the electronics store from 1pm to 4pm. This means that Jessica could not have gone to the restaurant during this time as well.
+
+Finally, Kimberly saw Jessica buying cookies at a bakery from 4pm to 5pm. This is the only time period where Jessica could have gone to the restaurant.
+So the answer is (B).
+
+Q: Today, William went to the soccer field. Between what times could they have gone?
+We know that:
+William woke up at 1pm.
+Sarah saw William working at the office from 1pm to 2pm.
+Mary saw William waiting at the train station from 2pm to 4pm.
+Susan saw William taking photos near the Eiffel Tower from 8pm to 10pm.
+The soccer field was closed after 10pm.
+Between what times could William have gone to the soccer field?
+Options:
+(A) 8pm to 10pm
+(B) 1pm to 2pm
+(C) 2pm to 4pm
+(D) 4pm to 8pm
+A: Let's think step by step.
+First, we know that William woke up at 1pm. So, he could have gone to the soccer field anytime after 1pm.
+
+Next, Sarah saw William working at the office from 1pm to 2pm. This means that William could not have gone to the soccer field during this time.
+
+Then, Mary saw William waiting at the train station from 2pm to 4pm. This means that William could not have gone to the soccer field during this time either.
+
+Finally, Susan saw William taking photos near the Eiffel Tower from 8pm to 10pm. This means that William could have gone to the soccer field anytime before 8pm.
+
+So the answer is (D).

@@ -1,0 +1,35 @@
+Q: Sort the following words alphabetically: List: coypu anharmonic inflammation beauteous
+A: Let's think step by step.
+First, let's list the words in alphabetical order:
+
+anharmonic
+beauteous
+coypu
+inflammation
+
+So, the sorted list of words is: anharmonic, beauteous, coypu, inflammation.
+So the answer is anharmonic beauteous coypu inflammation.
+
+
+Q: Sort the following words alphabetically: List: splashy rectitude novelty
+A: Let's think step by step.
+First, let's list the words in alphabetical order:
+
+novelty, rectitude, splashy
+
+So the sorted list is: novelty, rectitude, splashy. So the answer is novelty rectitude splashy.
+
+Q: Sort the following words alphabetically: List: yuh edt cheddar oblivion from poignant pang
+A: Let's think step by step.
+First, let's write down the list of words in alphabetical order:
+
+cheddar, edt, from, pang, poignant, oblivion, yuh
+
+Next, let's rearrange the words in the list:
+
+cheddar, edt, from, pang, oblivion, poignant, yuh
+
+So, the sorted list of words alphabetically is:
+
+cheddar, edt, from, pang, oblivion, poignant, yuh.
+So the answer is cheddar edt from oblivion pang poignant yuh.

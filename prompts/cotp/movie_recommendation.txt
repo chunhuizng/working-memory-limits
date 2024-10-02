@@ -1,0 +1,70 @@
+Recommend movies similar to the given list of movies. The answer is ended with "So the answer is [Option]."
+
+Q: Find a movie similar to Star Wars Episode IV - A New Hope, Indiana Jones and the Last Crusade, Star Wars Episode V - The Empire Strikes Back, The Big Lebowski:
+Options:
+(A) Tetsuo
+(B) the Ironman
+(C) The Princess Bride
+(D) The Barkley Marathons The Race That Eats Its Young
+(E) Bug
+A: Let's think step by step.
+First, consider the movies in questions:
+- Star Wars Episode IV - A New Hope (action, adventure, fantasy; 1977)
+- Indiana Jones and the Last Crusade (action, adventure; 1989)
+- Star Wars Episode V - The Empire Strikes Back (action, adventure, fantasy; 1980)
+- The Big Lebowski (action, drama, comedy; 1998)
+[Common feature] These are all famous classic American movies produced before 2000.
+Second, consider the movies in options:
+(A) Tetsuo (horror, science-fiction; 1989)
+(B) the Ironman (action, adventure, science-fiction; 2008)
+(C) The Princess Bride (adventure, fantasy, romance; 1987)
+(D) The Barkley Marathons: The Race That Eats Its Young (documentary; 2014)
+(E) Bug (horror, thriller; 2006)
+Amongst the options, the one that best matches "[Common feature] These are all famous classic American movies produced before 2000" is "The Princess Bride" (C). It is an adventure movie, similar in genre to "Indiana Jones and the Last Crusade" and "Star Wars Episode IV - A New Hope," and it was also a critically acclaimed film of the 1980s, like the others listed.
+So the answer is (C).
+
+Q: Find a movie similar to Twister, The Silence of the Lambs, Independence Day, Braveheart:
+Options:
+(A) They Shoot Horses
+(B) Don't They
+(C) Forrest Gump
+(D) The Salton Sea
+(E) Extreme Days
+A: Let's think step by step.
+First, consider the movies in questions:
+- Twister (action, adventure, thriller; 1996)
+- The Silence of the Lambs (crime, drama, thriller; 1991)
+- Independence Day (action, science-fiction, drama; 1996)
+- Braveheart (biography, drama, epic; 1995)
+[Common feature] These are all famous Hollywood movies produced around the 1990s.
+Second, consider the movies in options:
+(A) They Shoot Horses (drama; 1969)
+(B) Don't They? (drama; 1969)
+(C) Forrest Gump (drama, romance; 1994)
+(D) The Salton Sea (crime, drama, thriller; 2002)
+(E) Extreme Days (action, adventure, comedy; 2001)
+Amongst the options, the one that best matches "[Common feature] These are all famous Hollywood movies produced around the 1990s" is "Forrest Gump" (C). It is a drama with elements of romance, similar in genre to "Braveheart," and it was also a critically acclaimed film of the 1990s, like the others listed.
+So the answer is (C).
+
+Q: Find a movie similar to Minority Report, Total Recall, Inside Out, Forrest Gump:
+Options:
+(A) Phenomena
+(B) Lilting
+(C) Catwoman
+(D) Edge of Tomorrow
+A: Let's think step by step.
+First, consider the movies in questions:
+- Minority Report (action, crime, mystery; 2002)
+- Total Recall (action, adventure, science-fiction; 2012)
+- Inside Out (animation, family, comedy; 2015)
+- Forrest Gump (comedy, drama, romance; 1994)
+[Common feature] These movies, while spanning different genres, have a common thread of exploring complex concepts such as human consciousness, memory, or identity, and they mix this with a strong narrative that often includes futuristic or fantastical elements.
+Second, consider the movies in options:
+(A) Phenomena (horror, mystery; 1985)
+(B) Lilting (drama, romance; 2014)
+(C) Catwoman (action, fantasy; 2004)
+(D) Edge of Tomorrow (action, science fiction; 2014)
+Amongst the options, the one that best matches "[Common feature] These movies...have a common thread of exploring complex concepts such as human consciousness, memory, or identity, and they mix this with a strong narrative that often includes futuristic or fantastical elements" is "Edge of Tomorrow" (D). It is an action science fiction movie that deals with time loops and altering events, similar to the futuristic and mind-bending narratives found in "Minority Report" and "Total Recall."
+So the answer is (D).
+
+When presented with a problem, recall relevant problems as examples. Afterward, proceed to solve the initial problem.

@@ -1,0 +1,69 @@
+Q: Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing goalkeeper, Bob is playing striker, Claire is playing cheerleader, Dave is playing center midfielder, and Eve is playing right midfielder.
+As the game progresses, pairs of players occasionally swap positions. First, Eve and Dave trade positions. Then, Dave and Bob trade positions. Then, Dave and Claire trade positions. Then, Dave and Bob trade positions. Finally, Alice and Bob trade positions. At the end of the match, Claire is playing
+Options:
+(A) goalkeeper
+(B) striker
+(C) cheerleader
+(D) center midfielder
+(E) right midfielder
+A: Let's think step by step.
+At the start of the match, Claire is assigned as the cheerleader.
+
+Then, the following swaps occur:
+1. Eve and Dave trade positions. Now, Eve is the center midfielder and Dave is the right midfielder.
+2. Dave and Bob trade positions. Now, Dave is the striker and Bob is the right midfielder.
+3. Dave and Claire trade positions. Now, Dave is the cheerleader and Claire is the striker.
+4. Dave and Bob trade positions. Now, Dave is the right midfielder and Bob is the cheerleader.
+5. Alice and Bob trade positions. Now, Alice is the cheerleader and Bob is the goalkeeper.
+
+Therefore, at the end of the match, Claire is playing as the striker.
+
+So the answer is (B).
+
+Q: Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Ophelia, Claire is dancing with Patrick, Dave is dancing with Helga, and Eve is dancing with Sam.
+Throughout the song, the dancers often trade partners. First, Claire and Eve switch partners. Then, Alice and Claire switch partners. Then, Bob and Dave switch partners. Then, Alice and Eve switch partners. Finally, Dave and Alice switch partners. At the end of the dance, Claire is dancing with
+Options:
+(A) Karl
+(B) Ophelia
+(C) Patrick
+(D) Helga
+(E) Sam
+A: Let's think step by step.
+At the start of the dance, Claire is dancing with Patrick.
+
+After Claire and Eve switch partners, Claire is now dancing with Sam.
+
+After Alice and Claire switch partners, Claire is now dancing with Karl.
+
+After Bob and Dave switch partners, Claire is still dancing with Karl.
+
+After Alice and Eve switch partners, Claire is still dancing with Karl.
+
+Finally, after Dave and Alice switch partners, Claire is still dancing with Karl.
+
+Therefore, at the end of the dance, Claire is dancing with Karl.
+
+So the answer is (A).
+
+Q: Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a red present, Bob has a pink ball, Claire has a black ball, Dave has a brown present, and Eve has a purple present.
+As the event progresses, pairs of people swap gifts. First, Claire and Dave swap their gifts. Then, Eve and Dave swap their gifts. Then, Eve and Claire swap their gifts. Then, Dave and Bob swap their gifts. Finally, Alice and Claire swap their gifts. At the end of the event, Alice has the
+Options:
+(A) red present
+(B) pink ball
+(C) black ball
+(D) brown present
+(E) purple present
+A: Let's think step by step.
+First, Claire and Dave swap their gifts. This means Claire now has the brown present and Dave now has the black ball.
+
+Next, Eve and Dave swap their gifts. This means Eve now has the black ball and Dave now has the purple present.
+
+Then, Eve and Claire swap their gifts. This means Eve now has the brown present and Claire now has the purple present.
+
+Next, Dave and Bob swap their gifts. This means Dave now has the pink ball and Bob now has the purple present.
+
+Finally, Alice and Claire swap their gifts. This means Alice now has the purple present and Claire now has the red present.
+
+Therefore, at the end of the event, Alice has the purple present.
+
+So the answer is (E).

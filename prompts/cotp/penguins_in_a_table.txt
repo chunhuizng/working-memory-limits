@@ -1,0 +1,76 @@
+Answer questions about a table of penguins and their attributes. The answer is ended with "So the answer is [Option]."
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
+James, 12, 90, 12
+How many penguins are less than 8 years old?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: Let's think step by step.
+This question focuses on age.
+First, we have following lists of penguins (considering the new penguin James)):
+Louis: [7, 50, 11]
+Bernard: [5, 80, 13]
+Vincent: [9, 60, 11]
+Gwen: [8, 70, 15]
+James: [12, 90, 12]
+Second, this question focuses on age less than 8 years (i.e., < 8 years old)
+According to 'name: [age, height (cm), weight (kg)]', age is the 1st item in each list.
+From the lists of penguins, we know the following name-age pairs:
+Louis:7 (< 8? YES)
+Bernard:5 (< 8? YES)
+Vincent:9 (< 8? NO)
+Gwen:8 (< 8? NO)
+According to the pairs, Louis-7 and Bernard-5 are less than 8 years old. The number of penguins less than 8 years old is 2.
+So the answer is (B).
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which is the youngest penguin?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+A: Let's think step by step.
+This question focuses on age.
+First, we have following lists of penguins:
+Louis: [7, 50, 11]
+Bernard: [5, 80, 13]
+Vincent: [9, 60, 11]
+Gwen: [8, 70, 15]
+This question focuses on age (according to 'name: [age, height (cm), weight (kg)]', age is the 1st item in each list).
+From the lists of penguins, we know the following name-age pairs:
+Louis:7
+Bernard:5
+Vincent:9
+Gwen:8
+According to the pairs, Bernard-5 is the youngest penguin.
+So the answer is (B).
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the second penguin sorted by alphabetic order?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+A: Let's think step by step.
+This question focuses on the name.
+We know the following: The names of the penguin in the table are:
+Louis
+Bernard
+Vincent
+Gwen
+When we sort their names alphabetically,
+Let's break this sorting task down step by step:
+Step 1: The first letter: Compare the first letters of each word.
+We get "Louis": L (12), "Bernard": B (2), "Vincent": V (22), "Gwen": G (7).
+Let's sort the letter's by serial number from smallest to largest. So we now have: B (2) < G (7) < L (12) < V (22).
+Step 2: Combining all the steps, we get the following order: Bernard, Gwen, Louis, Vincent.
+So the name of the second penguin sorted by alphabetic order is Gwen.
+So the answer is (D).
+
+When presented with a problem, recall relevant problems as examples. Afterward, proceed to solve the initial problem.

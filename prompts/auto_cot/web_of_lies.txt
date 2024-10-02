@@ -1,0 +1,43 @@
+Q: Question: Rashida lies. Osvaldo says Rashida tells the truth. Sherrie says Osvaldo tells the truth. Gwenn says Sherrie tells the truth. Jerry says Gwenn lies. Does Jerry tell the truth?
+A: Let's think step by step.
+First, we know that Rashida lies. So, whatever Rashida says is false.
+
+Next, Osvaldo says Rashida tells the truth. Since Rashida lies, this means that Osvaldo is lying as well.
+
+Sherrie says Osvaldo tells the truth. Since Osvaldo lies, this means that Sherrie is also lying.
+
+Gwenn says Sherrie tells the truth. Since Sherrie lies, this means that Gwenn is lying as well.
+
+Finally, Jerry says Gwenn lies. Based on our previous deductions, we know that Gwenn does indeed lie. Therefore, Jerry is telling the truth.
+
+So, to answer the question, Jerry does tell the truth.
+So the answr is yes.
+
+Q: Question: Lorine lies. Amberly says Lorine lies. Fletcher says Amberly lies. Millie says Fletcher tells the truth. Antwan says Millie lies. Does Antwan tell the truth?
+A: Let's think step by step.
+First, we know that Lorine lies. So, whatever Lorine says is false.
+
+Amberly says Lorine lies. Since we know Lorine lies, Amberly must be telling the truth.
+
+Fletcher says Amberly lies. Since we know Amberly tells the truth, Fletcher must be lying.
+
+Millie says Fletcher tells the truth. Since we know Fletcher lies, Millie must be lying.
+
+Antwan says Millie lies. Since we know Millie lies, Antwan must be telling the truth.
+
+Therefore, Antwan tells the truth.
+So the answer is yes.
+
+Q: Question: Jerry tells the truth. Elanor says Jerry tells the truth. Gwenn says Elanor tells the truth. Kandi says Gwenn tells the truth. Dallas says Kandi tells the truth. Does Dallas tell the truth?
+A: Let's think step by step.
+Jerry tells the truth.
+Elanor says Jerry tells the truth.
+Therefore, Elanor tells the truth.
+Gwenn says Elanor tells the truth.
+Therefore, Gwenn tells the truth.
+Kandi says Gwenn tells the truth.
+Therefore, Kandi tells the truth.
+Dallas says Kandi tells the truth.
+Therefore, Dallas tells the truth.
+
+So, based on the given statements, Dallas tells the truth. So the answer is yes.

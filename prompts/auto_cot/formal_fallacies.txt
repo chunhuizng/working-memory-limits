@@ -1,0 +1,39 @@
+Q: "Here comes a perfectly valid argument: To begin with, Beatrice is a granddaughter of Danielle. Moreover, being a granddaughter of Danielle or a classmate of Kaye is sufficient for being a classmate of Kathy. It follows that Beatrice is a classmate of Kathy."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid
+- invalid
+A: Let's think step by step.
+The argument is deductively valid.
+
+The first premise states that Beatrice is a granddaughter of Danielle.
+The second premise states that being a granddaughter of Danielle or a classmate of Kaye is sufficient for being a classmate of Kathy.
+Therefore, it logically follows that Beatrice is a classmate of Kathy.
+
+The conclusion is a logical consequence of the premises.
+So the answer is valid.
+
+Q: "Here comes a perfectly valid argument: To begin with, whoever is not a nephew of Rene is a great-grandfather of Andy. Hence, no great-grandfather of Andy is a nephew of Rene."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid
+- invalid
+A: Let's think step by step.
+The argument states that whoever is not a nephew of Rene is a great-grandfather of Andy. This means that if someone is not a nephew of Rene, they must be a great-grandfather of Andy.
+
+The argument then concludes that no great-grandfather of Andy is a nephew of Rene. This conclusion is based on the premise that whoever is not a nephew of Rene is a great-grandfather of Andy.
+So the answer is valid.
+
+Q: "It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First, being a daughter of Marjorie is sufficient for not being a cousin of Carole. Second, not every aunt of Tracey is a cousin of Carole. Therefore, some aunt of Tracey is a daughter of Marjorie."
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+Options:
+- valid
+- invalid
+A: Let's think step by step.
+First, being a daughter of Marjorie is sufficient for not being a cousin of Carole. This means that if someone is Marjorie's daughter, they cannot be Carole's cousin.
+
+Second, not every aunt of Tracey is a cousin of Carole. This means that there are some aunts of Tracey who are not Carole's cousins.
+
+Based on these premises, we can conclude that some aunt of Tracey is a daughter of Marjorie. This is because if being Marjorie's daughter is sufficient for not being Carole's cousin, and there are some aunts of Tracey who are not Carole's cousins, then there must be some aunts of Tracey who are Marjorie's daughters.
+
+So the answer is valid.

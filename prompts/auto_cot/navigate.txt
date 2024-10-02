@@ -1,0 +1,26 @@
+Q: If you follow these instructions, do you return to the starting point? Turn around. Take 4 steps. Turn around. Take 4 steps.
+Options:
+- Yes
+- No
+A: Let's think step by step.
+First, you turn around. This means you are facing the opposite direction from where you started. Then, you take 4 steps forward. After that, you turn around again. Now, you are facing the same direction as when you started. Finally, you take 4 steps forward again.
+
+So, if you follow these instructions, you will return to the starting point. So the answer is yes.
+
+Q: If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps left. Take 3 steps backward. Take 3 steps left.
+Options:
+- Yes
+- No
+A: Let's think step by step.
+First, we start facing forward. Then, we take 6 steps to the left. This means we have moved to the left of the starting point. Next, we take 3 steps backward. This means we have moved back towards the starting point. Finally, we take 3 steps to the left again. This means we have moved even further to the left.
+
+Based on these instructions, we do not return to the starting point. So the answer is no.
+
+Q: If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps right. Take 7 steps backward. Take 3 steps left. Take 8 steps backward. Take 3 steps backward. Take 8 steps right.
+Options:
+- Yes
+- No
+A: Let's think step by step.
+First, you start facing forward. Then, you take 10 steps to the right, which means you have moved to the right of the starting point. Next, you take 7 steps backward, which means you have moved back towards the starting point. Then, you take 3 steps to the left, which means you have moved to the left of the starting point. After that, you take 8 steps backward, which means you have moved further away from the starting point. Finally, you take 3 steps backward and 8 steps to the right.
+
+So, if you follow these instructions, you do not return to the starting point. So the answer is no.
