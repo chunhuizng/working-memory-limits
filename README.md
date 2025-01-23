@@ -18,7 +18,7 @@ This repository is continuously updated with the following materials:
 
 ## Acknowledgments
 
-We gratefully acknowledge the authors of the [Big-Bench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard) paper for providing the BBH dataset and original CoT prompts, which served as a foundation for this research and for the benefit of the wider research community.
+We gratefully acknowledge the authors of the [Big-Bench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard) paper for providing the BBH dataset and original CoT prompts, which served as a foundation for this research and for the benefit of the wider research community. We also greatly appreciate the authors who created [ChatGPT-WM] (https://github.com/Daniel-Gong/ChatGPT-WM/tree/main/datasets).
 
 ## License
 
