@@ -1,6 +1,6 @@
 # Working Memory Identifies Reasoning Limits in Language Models
 
-[Paper Link]([https://github.com/suzgunmirac/BIG-Bench-Hard](https://aclanthology.org/2024.emnlp-main.938.pdf))
+[Paper Link]([https://github.com/suzgunmirac/BIG-Bench-Hard](https://aclanthology.org/2024.emnlp-main.938.pdf)
 
 This repository contains datasets, prompts, code, and supplementary materials from our **EMNLP 2024 paper**. Our study explores the cognitive limitations of large language models (LLMs) concerning working memory and autonomous reasoning capabilities. While pretraining can scale the working memory capacity of models like GPT-3.5 and GPT-4 to levels comparable with humans, their reasoning is still constrained by limitations in their autonomous reasoning and planning abilities.
 
